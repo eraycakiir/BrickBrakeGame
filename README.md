@@ -1,1 +1,1 @@
-BrickBrakeGame
+Bugün sizlere kendimi geliştirme amaçlı geliştiridiğim "Tuğla Kırma Oyunu" nu paylaşacağım.Mantık olarak basit bir oyun olmasına rağmen benim için güzel eğitici bir oyun oldu.İlk olarak Paddleın hareketlerini sağladık top ekleyip topun zıplaması yok etmesi kodlarını yazdık.Tuğlalar ekledik tuğlalara kırılma efekti ekledik.GameOverPaneliTasarladık. Github profilime kodları açıklaması ile bıraktım.Gelişmeye devam.. 
